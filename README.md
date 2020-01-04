@@ -6,7 +6,7 @@ A comprensive list of leetcode problems with solutions
 | 622      | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/Data%20Structure/Queue/DesignCircularQueue_622.java) | Medium |
 | 283| [Move Zeroes](https://github.com/shrinathjoshi/LeetCode/blob/master/MoveZeroes_283.java)| [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/MoveZeroes_283.java)|Easy|
 |||||
-|||||
+|268| [Missing Numbers](https://leetcode.com/problems/missing-number/)| [Java] | Easy|
 |||||
 |217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java]| Easy|
 |||||
