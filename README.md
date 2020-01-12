@@ -3,17 +3,6 @@ A comprensive list of leetcode problems with solutions
 
 | Number        | Problem Statement     | Solution  | Difficulty |
 | ------------- |:-------------:        | -----:| ------:|
-| 622      | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/Data%20Structure/Queue/DesignCircularQueue_622.java) | Medium |
-| 283| [Move Zeroes](https://github.com/shrinathjoshi/LeetCode/blob/master/MoveZeroes_283.java)| [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/MoveZeroes_283.java)|Easy|
-|||||
-|268| [Missing Numbers](https://leetcode.com/problems/missing-number/)| [Java] | Easy|
-|||||
-|217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java]| Easy|
-|||||
-|||||
-| 136      |  [Single Number](https://leetcode.com/problems/single-number/) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/SingleNumber_136.java) | Easy|
-| 119      |  [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/PascalTriangle2_119.java) | Easy|
-| 118      |  [Pascal's Triangle ](https://leetcode.com/problems/pascals-triangle) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/PascalTriangle_118.java) | Easy|
 1170 |[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)  | |Easy
 1030 |[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)  | |Easy
 1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)  | |Easy
@@ -74,6 +63,7 @@ A comprensive list of leetcode problems with solutions
 643 |[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)  | |Easy
 628 |[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)  | |Easy
 623 |[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)  | |Medium
+622 |[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |[Java](https://github.com/shrinathjoshi/LeetCode/blob/master/Data%20Structure/Queue/DesignCircularQueue_622.java) | Medium |
 581 |[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)  | |Easy
 572 |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | |Easy
 563 |[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)  | |Easy
@@ -174,7 +164,7 @@ A comprensive list of leetcode problems with solutions
 287 |[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)   | |Hard
 285 |[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts;  | |Medium
 284 |[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)   | |Medium
-283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | |Easy
+283 |[Move Zeroes](https://leetcode.com/problems/move-zeroes/)   | [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/MoveZeroes_283.java) |Easy
 282 |[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)   | |Hard
 279 |[Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | |Medium
 278 |[First Bad Version](https://leetcode.com/problems/first-bad-version/) | |Easy
@@ -250,7 +240,7 @@ A comprensive list of leetcode problems with solutions
 166 |[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)  | |Medium
 165 |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | |Easy
 164 |[Maximum Gap](https://leetcode.com/problems/maximum-gap/)  | |Hard
-163 |[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts;  | |Medium
+163 |[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts;  | [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/SingleNumber_136.java) |Medium
 162 |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)  | |Medium
 161 |[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts;  | |Medium
 160 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)  | |Easy
@@ -294,8 +284,8 @@ A comprensive list of leetcode problems with solutions
 122 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | |Medium
 121 |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | |Medium
 120 |[Triangle](https://leetcode.com/problems/triangle/) | |Medium
-119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | |Easy
-118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | |Easy
+119 |[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/PascalTriangle2_119.java) |Easy
+118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/PascalTriangle_118.java) |Easy
 117 |[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | |Hard
 116 |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | |Medium
 115 |[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | |Hard
