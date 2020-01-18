@@ -265,7 +265,7 @@ A comprensive list of leetcode problems with solutions
 141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | |Medium
 140 |[Word Break II](https://leetcode.com/problems/word-break-ii/) | |Hard
 139 |[Word Break](https://leetcode.com/problems/word-break/) | |Medium
-138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | |Hard
+138 |[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Java](https://github.com/shrinathjoshi/LeetCode/blob/master/Linked-List/138_copyRandomList.java) |Medium
 137 |[Single Number II](https://leetcode.com/problems/single-number-ii/) | |Medium
 136 |[Single Number](https://leetcode.com/problems/single-number/) | |Medium
 135 |[Candy](https://leetcode.com/problems/candy/) | |Hard
